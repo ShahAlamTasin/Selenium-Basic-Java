@@ -1,11 +1,17 @@
 # Selenium-Basic-Java
+
 Basic Selenium Automation with java
 
 Selenium Webdriver Version 4.6.0
+
 jdk version 19
+
 testNg 6.7
+
 Eclispe 
+
 Browser -Microsoft edge 
+
 Driver for Browser - edge driver
 
 ***** In Project ****
