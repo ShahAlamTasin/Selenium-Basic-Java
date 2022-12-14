@@ -11,9 +11,11 @@ Driver for Browser - edge driver
 ***** In Project ****
 
 Final_Connectivity is the main class
+
 Locator_2,Locator_2_1,Locator_2_2,Locator_2_3 contains different types of locators with their customized version in Selenium
 
 **** Automation Script written for ****
+
 Dropdown(Static, Dynamic)
 RadioButton
 Alert
