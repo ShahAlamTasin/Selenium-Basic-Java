@@ -16,16 +16,16 @@ Locator_2,Locator_2_1,Locator_2_2,Locator_2_3 contains different types of locato
 
 **** Automation Script written for ****
 
-Dropdown(Static, Dynamic)
-RadioButton
-Alert
-Checkbox
-Calender
+Dropdown(Static, Dynamic),
+RadioButton,
+Alert,
+Checkbox,
+Calender,
 Implicit wait, Explicit wait
-Actions class
-Window Shift
-Drag and Drop
-Webdriver Methods and Scope
+Actions class,
+Window Shift,
+Drag and Drop,
+Webdriver Methods and Scope,
 TestNG - Assertions 
 
 ***** Please give emphasis to comment written before any code for explaination *****
