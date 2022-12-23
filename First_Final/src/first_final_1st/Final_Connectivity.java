@@ -1,5 +1,7 @@
 package first_final_1st;
 
+import java.io.IOException;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -42,6 +44,9 @@ public class Final_Connectivity {
 //		Dropdown_3_1 dropdown_2 =  new Dropdown_3_1(driver);
 //		dropdown_2.run();
 
+//		Dropdown_3_2 dropdown_3 =  new Dropdown_3_2(driver);
+//		dropdown_3.run();
+		
 //		RadioButton_4 radiobutton_1 = new RadioButton_4(driver);
 //		radiobutton_1.run();
 
@@ -68,9 +73,21 @@ public class Final_Connectivity {
 		
 //		WebDriver_Scope_12 driver_scope =  new WebDriver_Scope_12(driver);
 //		driver_scope.run();
+	
+//		Calender_Advance_13 caladvance =  new Calender_Advance_13(driver);
+//		caladvance.run();
 		
-		Calender_Advance_13 caladvance =  new Calender_Advance_13(driver);
-		caladvance.run();
+//		Table_14 table_1 =  new Table_14(driver);
+//		table_1.run();
+		
+		Extra_Func_16 extra_1 =  new Extra_Func_16(driver);
+		try {
+			extra_1.run();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 	}
 
 }
