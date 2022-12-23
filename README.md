@@ -17,6 +17,7 @@ Driver for Browser - edge driver
 ***** In Project ****
 
 Final_Connectivity is the main class
+Extra_Func_16 class has main function also
 
 Locator_2,Locator_2_1,Locator_2_2,Locator_2_3 contains different types of locators with their customized version in Selenium
 
