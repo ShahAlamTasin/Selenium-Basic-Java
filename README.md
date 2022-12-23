@@ -32,6 +32,12 @@ Actions class,
 Window Shift,
 Drag and Drop,
 Webdriver Methods and Scope,
+Auto search dropdown(Hidden element),
+Window Maximize,
+Delete/Add cookies,
+Take Screenshot,
+Accept SSL certificate,
+Table,
 TestNG - Assertions 
 
 ***** Please give emphasis to comment written before any code for explaination *****
