@@ -19,6 +19,7 @@ For selenium Grid :- both hub and node webdriver grid version is 4.7.2
 For selenium Grid :- both hub and node browser Microsoft edge 
 
 For selenium Grid :- both hub and node jdk version 19
+
 ***** In Project ****
 
 Final_Connectivity is the main class
