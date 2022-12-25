@@ -18,6 +18,8 @@ Driver for Browser - edge driver
 
 Final_Connectivity is the main class
 
+Extra_Func_16 class has main function also
+
 Locator_2,Locator_2_1,Locator_2_2,Locator_2_3 contains different types of locators with their customized version in Selenium
 
 **** Automation Script written for ****
@@ -32,6 +34,12 @@ Actions class,
 Window Shift,
 Drag and Drop,
 Webdriver Methods and Scope,
+Auto search dropdown(Hidden element),
+Window Maximize,
+Delete/Add cookies,
+Take Screenshot,
+Accept SSL certificate,
+Table,
 TestNG - Assertions 
 
 ***** Please give emphasis to comment written before any code for explaination *****
