@@ -8,7 +8,7 @@ jdk version 19
 
 testNg 6.7
 
-Eclispe 
+IDE - Eclispe 
 
 Browser -Microsoft edge 
 
