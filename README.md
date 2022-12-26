@@ -4,15 +4,29 @@ Basic Selenium Automation with java
 
 Selenium Webdriver Version 4.6.0
 
-jdk version 19
+jdk version 19 
+
+Download it from https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 
 testNg 6.7
+
+download the selenium driver  from https://www.selenium.dev/downloads/
 
 IDE - Eclispe 
 
 Browser -Microsoft edge 
 
 Driver for Browser - edge driver
+
+****  Before run the project ensure this steps ****
+
+1. You have jdk19 in your machine 
+
+2.Environment variable for java and bin folder ar set
+
+3.you have invoke all the required driver/jar file in your project.
+
+---------------------------------------------------------------------
 
 For selenium Grid :- both hub and node webdriver grid version is 4.7.2
 
