@@ -32,7 +32,7 @@ Grid_17 class provide all steps in details for selenium grid and it has main met
 
 **** Automation Script written for ****
 
-Dropdown(Static, Dynamic),
+Dropdown(Static, Dynamic,Autosearch),
 RadioButton,
 Alert,
 Checkbox,
