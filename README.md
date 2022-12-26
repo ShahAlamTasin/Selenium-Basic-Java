@@ -10,7 +10,7 @@ Download it from https://www.oracle.com/java/technologies/downloads/#jdk19-windo
 
 testNg 6.7
 
-download the selenium driver  from https://www.selenium.dev/downloads/
+download the all selenium drivers  from https://www.selenium.dev/downloads/
 
 IDE - Eclispe 
 
